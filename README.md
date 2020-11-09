@@ -1,4 +1,4 @@
-# MP3 Player
+# MP3 PLAYER
 
 This is MP3 Vuejs3 Aplication
 
