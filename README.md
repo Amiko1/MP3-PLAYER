@@ -1,3 +1,4 @@
-# MP3 Player
+# MP3 PLAYER
 
-This is my first Complet vuejs aplication, MP3 Player.
+This is MP3-PLAYER Vuejs3 Aplication
+
